@@ -3,6 +3,6 @@
   publish = "dist/crud-application"
 
 [[redirects]]
-  from = "/api/*"
+  from = "/api/*/"
   to = "/.netlify/functions/server/:splat"
   status = 200
