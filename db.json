@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Rehaan",
+      "lastName": "Owais",
+      "email": "rehaan@gmail.com",
+      "dob": "2003-01-26T18:30:00.000Z",
+      "gender": "male",
+      "education": "Itermediate",
+      "company": "Mahindra & Mahindra",
+      "experience": 5,
+      "packages": 12,
+      "id": 3
+    },
+    {
+      "firstName": "Hari",
+      "lastName": "Oruganti",
+      "email": "hari@gmail.com",
+      "dob": "2000-05-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Netcracker",
+      "experience": 5,
+      "packages": 12,
+      "id": 4
+    }
+  ]
+}
